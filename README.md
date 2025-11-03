@@ -2,7 +2,7 @@
 
 Dear all,
 
-I present a case design for the Alphasmart Neo2 portable word processor. It should also fit the Alphasmart Neo.
+I present a case design for the legendary Alphasmart Neo2 portable word processor. It should also fit the Alphasmart Neo.
 
 ---
 
